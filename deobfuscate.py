@@ -16,7 +16,7 @@ parser.add_argument('-f', '--infile', dest="infile" , required=True, help='Input
 parser.add_argument('-o', '--outfile', dest="outfile", default = '' , help='Output file (optional)')
 parser.add_argument('-I', '--ioc', dest="out_ioc_only", action='store_true', help='Output IOC only (optional)')
 parser.add_argument('-S', '--script', dest="out_full_script", action='store_true', help='Output full script (optional)')
-parser.add_argument('-R', '--row', dest="include_row", action='store_true', help='Include row number (optional)')
+#parser.add_argument('-R', '--row', dest="include_row", action='store_true', help='Include row number (optional)')
 parser.add_argument('-q', '--quiet', dest="quiet", action='store_true', help='Suppress output')
 
 args = parser.parse_args()
