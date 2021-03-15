@@ -2,11 +2,11 @@
 
 ## References
 
-<https://blog.tglobal.tech/tor-based-gafgyt-variant-attacks-d-link-iot-devices/>
-<https://blog.netlab.360.com/gafgtyt_tor-and-necro-are-on-the-move-again/>
-<https://www.buaq.net/go-60889.html>
-<https://mp.weixin.qq.com/s/D30y0qeicKnHmP9Kad-pmg>
-<https://research.checkpoint.com/2021/freakout-leveraging-newest-vulnerabilities-for-creating-a-botnet/>
+<https://blog.tglobal.tech/tor-based-gafgyt-variant-attacks-d-link-iot-devices/>  
+<https://blog.netlab.360.com/gafgtyt_tor-and-necro-are-on-the-move-again/>  
+<https://www.buaq.net/go-60889.html>  
+<https://mp.weixin.qq.com/s/D30y0qeicKnHmP9Kad-pmg>  
+<https://research.checkpoint.com/2021/freakout-leveraging-newest-vulnerabilities-for-creating-a-botnet/>  
 
 
 ## keksec
@@ -64,7 +64,7 @@
 
 ### PasteBin
 
-[KekSec's Pastebin][(https://pastebin.com/u/KekSec)
+[KekSec's Pastebin](https://pastebin.com/u/KekSec)
 
 ```
 Syntax | PBin_ID | Added | Expires | Hits | Name / Title
